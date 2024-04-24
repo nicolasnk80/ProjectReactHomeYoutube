@@ -1,0 +1,31 @@
+.card-profile {
+  display: flex;
+  flex-direction: column;
+
+  justify-content: center;
+  align-items: center;
+
+  gap: 1rem;
+}
+
+.card-profile h2, .card-profile p {
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+
+  text-decoration: underline;
+}
+
+.card-profile .profile-container {
+  border: 5px solid black;
+  border-radius: 50%;
+  padding: 3rem;
+}
+
+.card-profile .profile-container img {
+  width: 7rem;
+}
+
+.card-profile p {
+  font-size: 1.3rem;
+}

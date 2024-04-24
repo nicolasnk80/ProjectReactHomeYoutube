@@ -1,0 +1,10 @@
+.btn-agendar a {
+  text-decoration: none;
+  color: white;
+
+  background-color: #5573d3;
+
+  padding: 1rem 10%;
+
+  border-radius: 10px;
+}
